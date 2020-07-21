@@ -33,5 +33,8 @@ Ice cream, outcome, 3, Food
 
 [gofinance-nodejs](https://github.com/rlovatto/gofinance-nodejs)
 
+<br/><br/>
+![](gofinance.gif)
+
 
 
